@@ -160,7 +160,7 @@ For example, when creating user account for different people, the user informati
 All the UI are presented via JAVA Swing.
  
 #####Report panel, The system will help you to find the right place to report. 
-![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/66a0320739145ba3bc874dffbcf880ef72e1c2be/images/panel.png) 
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/panel.png) 
 
  
 #####Report panel. System will check whether you has make all the required choice on this page.
