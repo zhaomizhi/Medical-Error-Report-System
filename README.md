@@ -146,11 +146,12 @@ For example, when creating user account for different people, the user informati
 
 ---
 ###Class Diagram ( System Architecture )
- ![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/class%20diagram.png =750x550) 
+
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/class%20diagram.png) 
 
 ---
 ### Work Flow
- ![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/work%20flow.png =750x550) 
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/work%20flow.png) 
 
 
 ----
@@ -159,22 +160,23 @@ For example, when creating user account for different people, the user informati
 All the UI are presented via JAVA Swing.
  
 #####Report panel, The system will help you to find the right place to report. 
- ![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/panel.png =550x500)  
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/66a0320739145ba3bc874dffbcf880ef72e1c2be/images/panel.png) 
+
  
 #####Report panel. System will check whether you has make all the required choice on this page.
- ![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/report%20panel.png =550x500) 
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/report%20panel.png) 
 
 
  
 #####It is easy to check the status of reports.
- ![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/status.png =550x500) 
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/status.png) 
  
 #####Based on the data gathered from various report, several charts will be generate automatically. It will show the result of medical error intuitively.
- ![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/charts.png =750x500) 
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/charts.png) 
  
 ##### Reports based on analyized data will  public.
 #####This will help hospitals be aware of the potential problems and medial errors in the future.
- ![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/statistic%20report.png =550x500) 
+![package](https://raw.githubusercontent.com/zhaomizhi/Medical-Error-Report-System/master/images/statistic%20report.png) 
 
 ----
 
